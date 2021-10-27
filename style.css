@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+
+body {
+  background-color:#e5e5e5;
+  font-family: 'Merienda', cursive;
+  color: black;
+  font-size: 30px;
+  line-height: normal;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: normal;
+}
+h2 {
+  font-size: 25px;
+  line-height: normal;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  display: inline-block;
+  font-size: 90px;
+  width: 30%;
+}
+
+img {
+  width: 100%;
+  border-radius: 20%;
+
+}
+.card-white {
+  background-color: white;
+  padding: 30px;
+  border-radius: 4px;
+  margin: 30px 20px;
+  text-align: center;
+}
+.container {
+  margin: 240px;
+}
+
+.button_yellow {
+background-color: #fca311;
+text-decoration: none;
+color: white;
+border-radius: 10%;
+font-size: 20px;
+padding: 10px;
+}
+
+.list i {
+color: #fca311;
+}
